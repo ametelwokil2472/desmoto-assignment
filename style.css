@@ -9,15 +9,22 @@ h2 {
 .brush h3 {
     font-family:Helvetica;
     font-size: 32px;
-    font-weight: bold;
+    font-weight: 700;
     color: white;
     background-color: mediumspringgreen;
 }
  h5 {
+     margin:18.72px 0;
     font-family:Helvetica;
     font-size: 20px;
     font-weight: bold;
-      
+    
+}
+p{
+    font-family:Helvetica;
+    }
+p span{
+    font-weight: bold;
 }
 .frames h3 {
     font-family:Helvetica;
@@ -32,3 +39,4 @@ h2 {
     font-weight: bold;
     color: white;
     background-color: skyblue;
+}
